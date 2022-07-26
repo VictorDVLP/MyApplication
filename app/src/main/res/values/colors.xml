@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="redlight">#ff616f</color>
+    <color name="yellow">#fff176</color>
+    <color name="yellowlight">#ffffa8</color>
+    <color name="pig">#ed7090</color>
+    <color name="piglight">#ffa1c0</color>
+    <color name="brown">#6d4f31</color>
+    <color name="brownLight">#9d7b5b</color>
+</resources>
